@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\loginform\loginform\bin\Debug\loginform.exe.config
+C:\Users\HP\source\repos\loginform\loginform\bin\Debug\loginform.exe
+C:\Users\HP\source\repos\loginform\loginform\bin\Debug\loginform.pdb
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.Form1.resources
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.Properties.Resources.resources
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.exe
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.pdb
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.enter_stock.resources

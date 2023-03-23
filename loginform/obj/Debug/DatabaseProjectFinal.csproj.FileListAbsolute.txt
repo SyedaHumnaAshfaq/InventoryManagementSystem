@@ -1,0 +1,31 @@
+C:\Users\HP\source\repos\loginform\loginform\bin\Debug\loginform.exe.config
+C:\Users\HP\source\repos\loginform\loginform\bin\Debug\loginform.exe
+C:\Users\HP\source\repos\loginform\loginform\bin\Debug\loginform.pdb
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\DatabaseProjectFinal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\DatabaseProjectFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.enter_stock.resources
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.login.resources
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.Properties.Resources.resources
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\DatabaseProjectFinal.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\DatabaseProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.exe
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.pdb
+C:\Users\HP\source\repos\loginform\loginform\obj\Debug\loginform.generate_bill.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\DatabaseProjectFinal.csproj.AssemblyReference.cache
+E:\semester 4\database\loginform\loginform\obj\Debug\DatabaseProjectFinal.csproj.SuggestedBindingRedirects.cache
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.enter_stock.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.generate_bill.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.login.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.Properties.Resources.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\DatabaseProjectFinal.csproj.GenerateResource.cache
+E:\semester 4\database\loginform\loginform\obj\Debug\DatabaseProjectFinal.csproj.CoreCompileInputs.cache
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.exe
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.pdb
+E:\semester 4\database\loginform\loginform\bin\Debug\loginform.exe.config
+E:\semester 4\database\loginform\loginform\bin\Debug\loginform.exe
+E:\semester 4\database\loginform\loginform\bin\Debug\loginform.pdb
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.TechMart.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.employees.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.ChooseOption.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.EmployeeDetails.resources
+E:\semester 4\database\loginform\loginform\obj\Debug\loginform.select_One.resources
